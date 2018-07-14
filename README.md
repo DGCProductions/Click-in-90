@@ -1,5 +1,5 @@
 
-# **Click'in 30: A 2.5D game where you have 30 seconds to click the square as many times as you can**
+# **Click'in 30: A 2D game where you have 30 seconds to click the square as many times as you can**
 
 ## **Versions**
 Current Version: [v1.0](https://github.com/DGCProductions/Click-in-90/releases/tag/v1.0)
