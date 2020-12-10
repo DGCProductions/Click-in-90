@@ -6,7 +6,7 @@ Current Version: [v1.0](https://github.com/DGCProductions/Click-in-90/releases/t
 
 Current Beta: N/A
 
-Upcoming Version: v1.1
+Upcoming Version: N/A
 
 [See all versions](https://github.com/DGCProductions/Click-in-90/releases)
 
