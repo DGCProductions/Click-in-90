@@ -10,7 +10,7 @@ Upcoming Version: N/A
 
 [See all versions](https://github.com/DGCProductions/Click-in-90/releases)
 
-*Play the other editions of Click'in 30!*
+## *Play the other editions of Click'in 30!*
 - [Click'in 30 Web](https://dgcproductions.github.io/)
 - [Click'in 30 Android](https://play.google.com/store/apps/details?id=org.lunapark.dev.jmonkey3template)
 - [Click'in 30 3D](https://www.indiedb.com/games/clickin-30-3d)
