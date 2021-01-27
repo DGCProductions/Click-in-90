@@ -24,7 +24,7 @@ Do you have more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to 
 
 ## **Features (current and future plans)**
 - Gameplay of clicking cube
-- Music by Shedletsky 
+- Music by Shedletsky from sword fights on the heights
 - Sound effects of clicking!
 - Moving skybox of stary sky
  - and more... What do you want in the game? Go to issues and recommend and idea for me to add OR join my discord!
